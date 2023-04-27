@@ -2,10 +2,10 @@
 ######  💻Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro💻
 
 ## ÍNDICE
-* [Intro](https://github.com/BrenMarSu/Google-Clone/edit/main/README.md#intro)
-* [Proyecto](https://github.com/BrenMarSu/Google-Clone/edit/main/README.md#proyecto)
-* [Objetivos](https://github.com/BrenMarSu/Google-Clone/edit/main/README.md#objetivos)
-* [Demo](https://github.com/BrenMarSu/Google-Clone/edit/main/README.md#demo)
+* [Intro](https://github.com/BrenMarSu/Google-Clone#intro)
+* [Proyecto](https://github.com/BrenMarSu/Google-Clone#proyecto)
+* [Objetivos](https://github.com/BrenMarSu/Google-Clone#objetivos)
+* [Demo](https://github.com/BrenMarSu/Google-Clone#demo)
 
 ***
 
