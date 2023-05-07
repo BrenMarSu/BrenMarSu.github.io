@@ -1,6 +1,8 @@
 # Clonación de la interfaz de Google
 ######  💻Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro💻
 
+![Google Clone](https://user-images.githubusercontent.com/101438131/236666997-9f4efe38-9124-4341-8a74-9b7b8b153ea3.PNG)
+
 ## ÍNDICE
 * [Intro](https://github.com/BrenMarSu/Google-Clone#intro)
 * [Proyecto](https://github.com/BrenMarSu/Google-Clone#proyecto)
